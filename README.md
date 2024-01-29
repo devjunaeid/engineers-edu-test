@@ -1,4 +1,4 @@
-## View Live deployment [here..](https://engineers-edu-jcdxdcrd6-devjunaeids-projects.vercel.app/)
+## View Live deployment [here..](https://engineers-edu-dev.vercel.app/)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
